@@ -1,0 +1,1 @@
+Allelujah Haptism, Quattro Bajeena, Bring Stabity.... Yoshiyuki Tomino's Gundam franchise has quite a few strange names. This program aims to create a simple random name generator based on the names of various Gundam characters.
